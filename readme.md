@@ -6,6 +6,7 @@ npm server // yarn server
 
 ```
 
+------------------------
 
 ### 本地服务器
 `yarn s`
@@ -15,3 +16,8 @@ npm server // yarn server
 
 ### 发布到Github Pages
 `yarn d`
+
+
+------------------------
+### 写作
+  - hexo new <title>
