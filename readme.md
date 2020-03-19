@@ -21,3 +21,8 @@ npm server // yarn server
 ------------------------
 ### 写作
   - hexo new <title>
+
+
+
+### 线上地址
+https://boogoogle.github.io/boo.github.io/2020/03/19/daily/

@@ -1,6 +1,8 @@
 ---
 title: daily
 date: 2020-03-19 21:46:03
+categories: 
+- 流水账
 tags: 流水账
 ---
 
@@ -22,4 +24,7 @@ tags: 流水账
   - 大屏项目发现很多问题,明天开会专门说一下,需要qa介入
     - 比如单位, 空数据问题
   - 9.30准时到公司
-### end 晚上10:07
+###
+  - ![晚上超市账单](/boo.github.io//imgs/2020_03/bill.jpeg)
+  - ![我的桌面](/boo.github.io/imgs/2020_03/desktop.jpeg)
+  - ![10元午饭](/boo.github.io/imgs/2020_03/launch.jpeg)
